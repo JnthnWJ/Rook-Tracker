@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rook-navy: #0d2756;
+  --color-rook-navy-dark: #091b3d;
+  --color-rook-teal: #49a1b7;
+  --color-rook-teal-dark: #3a8294;
+  --color-rook-gold: #f4cb49;
+}

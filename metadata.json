@@ -1,0 +1,5 @@
+{
+  "name": "Rook Score Tracker",
+  "description": "A digital spreadsheet to track scores for 4-handed Rook, including dynamic partnerships and bid tracking.",
+  "requestFramePermissions": []
+}
